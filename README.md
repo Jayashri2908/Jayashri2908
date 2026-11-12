@@ -31,15 +31,6 @@ An AI system that parses syllabi from PDF/DOCX/TXT into structured data, runs Bl
 
 RAG pipeline with primary/fallback model routing · multi-format export · MIT licensed
 
-### Upscaler-AI — Image Restoration Pipeline
-*Code available on request*
-
-A Docker-orchestrated microservice ecosystem for high-resolution image upscaling across both NVIDIA GPU and CPU-only hardware, with automated quality scoring so output isn't taken on faith.
-
-`Python` `Docker` `Real-ESRGAN` `GFPGAN` `OpenCV` `WebSockets` `n8n`
-
-Real-ESRGAN + GFPGAN super-resolution and face restoration · NIQE-based automated quality assessment · live progress over WebSockets
-
 ### ML-Based Baldness Prediction System
 *Manuscript and patent under review*
 
